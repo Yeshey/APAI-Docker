@@ -21,6 +21,9 @@
             usernamehw.errorlens
             ms-vsliveshare.vsliveshare
             eamodio.gitlens
+            ms-python.vscode-pylance
+            ms-python.python
+            ms-toolsai.jupyter
           ];
         };
 
