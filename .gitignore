@@ -76,7 +76,7 @@ dkms.conf
 
 ### direnv ###
 .direnv
-.envrc
+# .envrc
 
 ### Django ###
 *.log
